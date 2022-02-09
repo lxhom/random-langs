@@ -96,5 +96,17 @@ pipeline {
     disableConcurrentBuilds()
     disableConcurrentBuilds()
     disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
+    disableConcurrentBuilds()
   }
 }
